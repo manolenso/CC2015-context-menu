@@ -1,4 +1,5 @@
 ### REG file for create Adobe CC 2015 desktop context menu
+2 versions Top and Bottom
 
 ![context](https://github.com/manolenso/CC2015-context-menu/blob/master/screen/capture.png)
 
