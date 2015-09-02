@@ -1,11 +1,18 @@
 ### REG file for create Adobe CC 2015 desktop context menu
-2 versions Top and Bottom
+*use for Windows 7!
+####2 versions: Top and Bottom
+#### Install: dbclick on Reg file
 
 ![context](https://github.com/manolenso/CC2015-context-menu/blob/master/screen/capture.png)
 
+To add CC Adobe SOFTWARE, first edit "SubCommands" line
 
-#### Quick addition code snippets
-copy and past, replace XXXXX as you need!
+"SubCommands"="Photoshop;Illustrator;inDesign;lightroom;EdgeAnimate;Dreamweaver;Muse;Flash"
+
+
+#### Quick addition code snippets:
+copy and past, replace XXXXX
+
 
 ````reg
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\XXXXX]
