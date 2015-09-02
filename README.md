@@ -1,6 +1,6 @@
 ### REG file for create Adobe CC 2015 desktop context menu
 
-![context](screen\capture.png)
+![context](https://github.com/manolenso/CC2015-context-menu/blob/master/screen/capture.png)
 
 
 #### Quick addition code snippets
