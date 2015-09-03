@@ -1,5 +1,5 @@
 ### REG file for create Adobe CC 2015 desktop context menu
-*use for Windows 7!
+*work for Windows 7 !
 ####2 versions: Top and Bottom
 #### Install: dbclick on Reg file
 
